@@ -8,5 +8,17 @@ namespace Valoraciones
 {
     class LibroValoraciones
     {
+        List<float> valoraciones = new List<float>();
+
+        public LibroValoraciones()
+        {
+            valoraciones = new List<float>();
+        }
+        public void AgregarValoraciones(float valoracion)
+        {
+            valoraciones.Add(valoracion);
+        }
+        
+
     }
 }

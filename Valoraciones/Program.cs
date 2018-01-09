@@ -10,6 +10,9 @@ namespace Valoraciones
     {
         static void Main(string[] args)
         {
+            LibroValoraciones libro =new LibroValoraciones();
+            libro.AgregarValoraciones(3.5f);
+            libro.AgregarValoraciones(5);
         }
     }
 }

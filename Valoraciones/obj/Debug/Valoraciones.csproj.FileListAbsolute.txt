@@ -1,1 +1,6 @@
 C:\Users\Rafael\Documents\Visual Studio 2015\Projects\Curso_C_Sharp_desde_cero\Valoraciones\Valoraciones\bin\Debug\Valoraciones.exe.config
+C:\Users\Rafael\Documents\Visual Studio 2015\Projects\Curso_C_Sharp_desde_cero\Valoraciones\Valoraciones\bin\Debug\Valoraciones.exe
+C:\Users\Rafael\Documents\Visual Studio 2015\Projects\Curso_C_Sharp_desde_cero\Valoraciones\Valoraciones\bin\Debug\Valoraciones.pdb
+C:\Users\Rafael\Documents\Visual Studio 2015\Projects\Curso_C_Sharp_desde_cero\Valoraciones\Valoraciones\obj\Debug\Valoraciones.csprojResolveAssemblyReference.cache
+C:\Users\Rafael\Documents\Visual Studio 2015\Projects\Curso_C_Sharp_desde_cero\Valoraciones\Valoraciones\obj\Debug\Valoraciones.exe
+C:\Users\Rafael\Documents\Visual Studio 2015\Projects\Curso_C_Sharp_desde_cero\Valoraciones\Valoraciones\obj\Debug\Valoraciones.pdb
